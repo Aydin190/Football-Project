@@ -1,0 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/bankgothic-md-bt');
+body{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/1e8eab5e-7ef9-4d61-bfa5-a0cd77489178/d1yu7ad-73b20f62-7f2c-4451-8203-5f982580a674.png);
+    background-repeat: no-repeat;
+}
+
+.first{
+    font-family: 'BankGothic Md BT', sans-serif;
+    font-size: 2rem;
+    padding: 0;
+    margin-left: 1rem;
+    margin-top: 0;
+    color: white;
+}
